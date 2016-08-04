@@ -1,0 +1,42 @@
+_repo: Kwaidan--Stories-and-Studies-of-Strange-Things_1210
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Xiaoquan, Bayun
+    - Hearn, Patrick Lafcadio
+    - Koizumi, Yakumo
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: Title; Contents; Introduction; The Story of Mimi-Nashi-Hoichi; Oshidori;
+  The Story of O-Tei; Ubazakura; Diplomacy; Of a Mirror and a Bell; Jikininki; Mujina;
+  Rokuro-Kubi; A Dead Secret; Yuki-Onna; The Story of Aoyagi; Jiu-Roku-Zakura; The
+  Dream of Akinosuke; Riki-Baka; Hi-Mawari; Horai; INSECT STUDIES; Butterflies; Mosquitoes;
+  Ants; Endnotes.
+gutenberg_issued: '1998-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1210'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Ghost stories'
+- !lcc 'PL'
+- !lcsh 'Legends -- Japan'
+- GITenberg
+tableOfContents: The story of Mimi-Nashi-Hoichi -- Oshidori -- The story of O-Tei
+  -- Ubazakura -- Diplomacy -- Of a mirror and a bell -- Jikininki -- Mujina -- Rokuro-Kubi
+  -- A dead secret -- Yuki-Onna -- The story of Aoyagi -- Jiu-Roku-Zakura -- The dream
+  of Akinosuke -- Riki-Baka -- Hi-Mawari -- Horai -- Butterflies -- Mosquitoes --
+  Ants.
+title: 'Kwaidan: Stories and Studies of Strange Things'
+url: http://www.gutenberg.org/ebooks/1210
