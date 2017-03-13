@@ -1,5 +1,8 @@
 _repo: Kwaidan--Stories-and-Studies-of-Strange-Things_1210
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -17,6 +20,8 @@ description: Title; Contents; Introduction; The Story of Mimi-Nashi-Hoichi; Oshi
   Rokuro-Kubi; A Dead Secret; Yuki-Onna; The Story of Aoyagi; Jiu-Roku-Zakura; The
   Dream of Akinosuke; Riki-Baka; Hi-Mawari; Horai; INSECT STUDIES; Butterflies; Mosquitoes;
   Ants; Endnotes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1210#Kwaidan--Stories-and-Studies-of-Strange-Things
 gutenberg_issued: '1998-02-01'
 gutenberg_type: Text
 identifiers:
